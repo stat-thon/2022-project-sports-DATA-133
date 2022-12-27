@@ -6,9 +6,7 @@
 - Final Rank: 최우수상 (한국문화관광연구원 원장상)
 
 # Data
-- Produced by Innogrid (http://hackathon-innogrid.com/)
-- 12,731 json file data, 12,731 image file data
-- 728 dogs, 11 cats
+- Produced by 한국문화관광연구원, 신한카드
 
 # Role
 - Jaeyong Lee (Leader)
