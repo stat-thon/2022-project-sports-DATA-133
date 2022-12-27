@@ -7,6 +7,7 @@
 
 # Data
 - Produced by 한국문화관광연구원, 신한카드
+- Card Data are removed
 
 # Role
 - Jaeyong Lee (Leader)
