@@ -55,7 +55,8 @@
 ## 기술 스택
 
 - Python
-- pandas
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 - numpy
 - matplotlib
 - seaborn
